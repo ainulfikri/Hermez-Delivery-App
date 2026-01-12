@@ -1,5 +1,13 @@
 # Hermez
 
+This repository contains a **Flutter-based Android application** that integrates
+with **Firebase Authentication** and **Firebase Database**. The project
+implements user login and data interaction via Firebase APIs, and represents my
+experience building and integrating mobile applications with cloud-based
+backend services.
+
+Original repository: https://github.com/AliceMochi/Hermez-Delivery-App
+
 Hermez is a **mobile delivery-style application** inspired by the Greek
 mythology figure **Hermes**, the messenger god known for speed and mobility.
 The name reflects the core idea of fast delivery, while the visual theme
